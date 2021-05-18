@@ -1,0 +1,11 @@
+---
+title: "MEGHAN F. MACIEJEWSKI"
+---
+
+<div style= "float:right;position: relative;">
+```{r picture, echo=FALSE}
+knitr::include_graphics("intro page/mfm8@illinois.edu.jpg")
+```
+</div>
+
+I am a first-year PhD student in [Dr. Alison Bell's](https://alisonbelllab.web.illinois.edu) lab in the [Department of Evolution, Ecology, and Behavior](https://sib.illinois.edu/eeb/) at the University of Illinois at Urbana-Champaign. I am broadly interested in social evolution, behavioral ecology and fishes. In the Bell lab, my research aims to describe the mechanisms underlying an evolutionary loss of paternal care behavior in threespine stickleback.

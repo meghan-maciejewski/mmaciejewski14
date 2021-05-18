@@ -1,0 +1,37 @@
+name: "MEGHAN F. MACIEJEWSKI"
+output_dir: "."
+navbar:
+  center: "MEGHAN F. MACIEJEWSKI"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Previous Research"
+      href: previous_research.html
+    - text: "Current Research"
+      href: current_research.html
+    - text: "Publications"
+      href: publications.html    
+    - text: "CV"
+      href: May_2021_meghan_maciejewski_CV.pdf
+    - text: "CV page"
+      href: CV.html
+    - text: "Doodles"
+      href: doodles.html
+  right:
+    - icon: ai ai-google-scholar-square
+      href: https://scholar.google.com/citations?user=EJt3cOkAAAAJ&hl=en
+    - icon: ai ai-researchgate-square
+      href: https://www.researchgate.net/profile/Meghan-Maciejewski
+    - icon: fab fa-twitter
+      href: https://twitter.com/MeghanFMac
+    - icon: fas fa-envelope
+      href: mailto:<mfm8@illinois.edu>
+
+
+output:
+  html_document:
+    theme: lumen
+    css: https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css
+    
+# themes: “default”, “cerulean”, “journal”, “flatly”, “darkly”, “readable”, 
+# “spacelab”, “united”, “cosmo”, “lumen”, “paper”, “sandstone”, “simplex”, “yeti”
