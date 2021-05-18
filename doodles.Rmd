@@ -17,23 +17,15 @@ In my spare time I like sketching the animals from lab, cool specimens from the 
 library(magrittr)
 library(bsplus)
 bs_carousel(id = "fish") %>%
-  bs_append(content = bs_carousel_image(src = "doodles/tophalf.jpg")) %>%
   bs_append(content = bs_carousel_image(src = "doodles/reticulatespikefish.jpg")) %>%
-  bs_append(content = bs_carousel_image(src = "doodles/reticulatespikefish 2.jpg")) %>%
+  bs_append(content = bs_carousel_image(src = "doodles/tophalf.jpg")) %>%
   bs_append(content = bs_carousel_image(src = "doodles/clownfish and cardinalfish.jpg")) %>%
   bs_append(content = bs_carousel_image(src = "doodles/0212181922.jpg")) %>%
   bs_append(content = bs_carousel_image(src = "doodles/0302191311.jpg")) %>%
-  bs_append(content = bs_carousel_image(src = "doodles/0317191105a 2.jpg")) %>%
   bs_append(content = bs_carousel_image(src = "doodles/0317191105a.jpg")) %>%
   bs_append(content = bs_carousel_image(src = "doodles/0422191405.jpg")) %>%
-  bs_append(content = bs_carousel_image(src = "doodles/0422191405 2.jpg")) %>%
   bs_append(content = bs_carousel_image(src = "doodles/0801191951.jpg")) %>%
-  bs_append(content = bs_carousel_image(src = "doodles/0801191951 2.jpg")) %>%
   bs_append(content = bs_carousel_image(src = "doodles/0801191952.jpg")) %>%
-  bs_append(content = bs_carousel_image(src = "doodles/0801191952 2.jpg")) %>%
-  bs_append(content = bs_carousel_image(src = "doodles/0801191952b.jpg")) %>%
-  bs_append(content = bs_carousel_image(src = "doodles/0801191952b 2.jpg")) %>%
-  bs_append(content = bs_carousel_image(src = "doodles/0801191954.jpg")) %>%
-  bs_append(content = bs_carousel_image(src = "doodles/0801191954 2.jpg"))
+  bs_append(content = bs_carousel_image(src = "doodles/0801191954.jpg")) 
 ```
 
