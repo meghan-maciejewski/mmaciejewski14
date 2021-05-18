@@ -12,8 +12,6 @@ navbar:
     - text: "Publications"
       href: publications.html    
     - text: "CV"
-      href: May_2021_meghan_maciejewski_CV.pdf
-    - text: "CV page"
       href: CV.html
     - text: "Doodles"
       href: doodles.html
@@ -30,7 +28,7 @@ navbar:
 
 output:
   html_document:
-    theme: lumen
+    theme: cosmo
     css: https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css
     
 # themes: “default”, “cerulean”, “journal”, “flatly”, “darkly”, “readable”, 
