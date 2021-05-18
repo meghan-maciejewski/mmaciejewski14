@@ -1,0 +1,20 @@
+---
+title: "Current Research"
+---
+
+<div align="center">
+[Bell lab | University of Illinois]{style="color: teal; font-size: 15pt; font-weight: bold"}
+
+As a PhD student in the [Bell lab](https://alisonbelllab.web.illinois.edu), I am interested in investigating the proximate mechanisms underlying an evolutionary loss of parental care in threespine stickleback. Typically, stickleback males invest a substantial amount of time and energy into reproduction and paternal care. Males will establish and defend territories, build nests, court females, and defend and care for their eggs and fry. In an atypical population of stickleback in Nova Scotia (Blouw's white stickleback, see photo below), males have evolved incredibly reduced paternal care. After fertilizing the eggs in their nest, these white "non-caring" males immediately pick their eggs up in their mouths and spit them out of the nest, providing no further care. I am currently interested in looking at the neural and hormonal mechanisms that may have contributed to this evolutionary loss in paternal care behavior.
+
+Stay tuned for updates!
+
+| ![](current research/white_common_stickleback.png) | ![](current research/brains_pituitaries.jpg) |
+|:--:|:--:|
+| *Male stickleback showing nuptial coloration. Top: "Non-caring" white stickleback male. Bottom: Typical "caring" stickleback male . Photo credit: Blouw and Hagen 1990, Biol. J. Linn. Soc.* | *Stickleback brains and pituitaries* |
+
+![](current research/bell_lab_logo.png)
+
+*Logo by Miles Bensky*
+
+</div>
