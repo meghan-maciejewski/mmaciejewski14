@@ -2,6 +2,12 @@
 title: "MEGHAN F. MACIEJEWSKI"
 ---
 
+<style type="text/css">
+h1.title {
+  text-align: center;
+}
+</style>
+
 <div style= "float:right;position: relative;">
 ```{r picture, echo=FALSE}
 knitr::include_graphics("intro page/mfm8@illinois.edu.jpg")

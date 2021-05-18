@@ -2,6 +2,12 @@
 title: "CV"
 ---
 
+<style type="text/css">
+h1.title {
+  text-align: center;
+}
+</style>
+
 <div align="center">
   <a 
   class="btn btn-primary btn-lg" 
